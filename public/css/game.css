@@ -1,0 +1,31 @@
+h2{
+  font-style: italic;
+  font-family:"Times New Roman";
+  margin-top: 10px;
+  font-size: 30px;
+}
+p{
+  font-style: italic;
+  margin-left: 400px;
+  margin-right: 400px;
+  font-size: 20px;
+}
+/*
+#outputInches{
+  font-style: italic;
+  font-family:"Times New Roman"
+  margin-left: 400px;
+}
+
+#outputMeters{
+  font-style: italic;
+  font-family:"Times New Roman"
+  margin-left: 400px;
+}
+
+#outputMiles{
+  font-style: italic;
+  font-family:"Times New Roman"
+  margin-left: 400px;
+}
+*/
